@@ -1,7 +1,7 @@
 # documentationhttps
-Thanks for downloading this template!
+Thanks for visiting my repository!
 
-Template Name: Regna
+Template Name: Tech Law
 Template URL: ://vignesh-v96.github.io/documentation/.
 Author: Vignesh V
 Languages used: HTML5 & CSS3.
